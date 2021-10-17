@@ -1,0 +1,7 @@
+name: UnsetInvulnerable
+version: '${project.version}'
+main: io.github.dailystruggle.unsetinvulnerable.UnsetInvulnerable
+api-version: 1.13
+authors: [ leaf26 ]
+description: unset all players' invulnerability
+depend: [ OfflineManager ]
